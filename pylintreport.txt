@@ -1,0 +1,7 @@
+************* Module inventorysystem
+inventorysystem.py:40:0: C0301: Line too long (101/100) (line-too-long)
+inventorysystem.py:58:4: W0603: Using the global statement (global-statement)
+
+------------------------------------------------------------------
+Your code has been rated at 9.68/10 (previous run: 9.68/10, +0.00)
+
